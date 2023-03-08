@@ -1,0 +1,7 @@
+name: wonde-test
+recipe: laravel
+config:
+  webroot: './wonde-test/public'
+services:
+  appserver:
+    type: php:8.1 #add these lines
