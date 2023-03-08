@@ -24,14 +24,14 @@ WONDE_KEY=<KEY>
 WONDE_SCHOOL=<SCHOOLID>   
 ```
 # Next Steps 
-I did not spend a large amount of time on this, and have made some quick implementation. If i was going to continue developing this further I would :
-    - Set up models for Employee, Class, Student and Lesson.
-    - Use a auth system to authenticate the user.
-    - Move the data structures of the response to there relevant class. 
-    - Move the client connection into its own method 
-    - Refactor and improve the code from a readability and efficiency point of view
-    - More in depth error handling and testing.
-    - improve the UI.
+I did not spend a large amount of time on this, and have made some quick implementation. If i was going to continue developing this further I would :\
+    - Set up models for Employee, Class, Student and Lesson.\
+    - Use a auth system to authenticate the user.\
+    - Move the data structures of the response to there relevant class. \
+    - Move the client connection into its own method \
+    - Refactor and improve the code from a readability and efficiency point of view\
+    - More in depth error handling and testing.\
+    - improve the UI.\
 
 # Screen Shots
 Welcome page 
