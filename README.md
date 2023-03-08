@@ -1,6 +1,6 @@
 # Wonde Developer Test
 
-Thanks again for this opportunity. I decided to spin up a Laravel App for this test as I know this is the system and framework you use. 
+Thanks again for this opportunity. I decided to spin up a Laravel App for this test as I know this is the system and framework you use. I developed this using lando to handle the environment, the Wonde PHP client and Tailwindscss for styling.
 
 # Solution to the Problem 
 
