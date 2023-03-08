@@ -4,16 +4,17 @@ Thanks again for this opportunity. I decided to spin up a Laravel App for this t
 
 # Solution to the Problem 
 
-I have made a simple system in which a teacher can enter the id (Wonde ID) then are taken to another page where there week schedule is displayed both by day of the week and by student. This can be done with different employee ids in the same school. 
-
-# Screen Shots
-![Welcome](https://raw.githubusercontent.com/dan-ling93/wonde-developer-test/master/wonde-test/public/images/Screenshot%202023-03-08%20at%2013.44.09.png "Welcome")
-
+I have made a simple system in which a teacher can enter the id (Wonde ID) then are taken to another page where there week schedule is displayed both by day of the week and by student. This can be done with different employee ids in the same school.  Example Id 
+```
+A341239484
+```
 
 # Main  files 
+```
 resources -> views -> *
 app ->  Http -> Controllers -> ClassController.
 resources -> routes -> web
+```
 
 # Important to know
 I have not pushed up the token or the school id as this is a public repo, I have sent them in the email over with the link to this repo. They will need to be added to the .env file
@@ -31,3 +32,14 @@ I did not spend a large amount of time on this, and have made some quick impleme
     - Refactor and improve the code from a readability and efficiency point of view
     - More in depth error handling and testing.
     - improve the UI.
+
+# Screen Shots
+Welcome page 
+
+![Welcome](https://raw.githubusercontent.com/dan-ling93/wonde-developer-test/master/wonde-test/public/images/Screenshot%202023-03-08%20at%2013.44.09.png "Welcome")
+
+Timetable by Days
+![days](https://github.com/dan-ling93/wonde-developer-test/blob/master/wonde-test/public/images/Screenshot%202023-03-08%20at%2013.44.23.png "days")
+
+Timetable by Student
+![students](https://github.com/dan-ling93/wonde-developer-test/blob/master/wonde-test/public/images/Screenshot%202023-03-08%20at%2013.44.31.png "Students")
