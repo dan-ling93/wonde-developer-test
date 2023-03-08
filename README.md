@@ -7,7 +7,7 @@ Thanks again for this opportunity. I decided to spin up a Laravel App for this t
 I have made a simple system in which a teacher can enter the id (Wonde ID) then are taken to another page where there week schedule is displayed both by day of the week and by student. This can be done with different employee ids in the same school. 
 
 # Screen Shots
-
+![Welcome](https://raw.githubusercontent.com/dan-ling93/wonde-developer-test/master/wonde-test/public/images/Screenshot%202023-03-08%20at%2013.44.09.png "Welcome")
 
 
 # Main  files 
